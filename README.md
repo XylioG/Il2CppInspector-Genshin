@@ -1,5 +1,5 @@
 # How to get Genshin 2.7 Dump
-Firstly, use https://github.com/RyujinZX/GenshinDebug/tree/master/MetadataConverter to decrypt & convert metadata.
+Firstly, use [MetaDataConverter](https://github.com/XylioG/GenshinDebug/tree/main/MetadataConverter)  to decrypt & convert metadata.
 Then use this modification for Il2cppInspector, and just select converted metadata, no need to use MiHoYo plugin.
 
 # Development of Il2CppInspector is suspended
